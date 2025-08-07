@@ -10,7 +10,7 @@
 - 알고리즘 & 자료구조
 
 ## 📄 포트폴리오
-**➡️ [전체 포트폴리오 보기](https://이름.github.io)**
+**➡️ [전체 포트폴리오 보기](https://OHwish11.github.io)**
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=이름&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OHwish11&show_icons=true&theme=radical)
